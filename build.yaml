@@ -1,0 +1,17 @@
+---
+name: "DuckDuckGo"
+guid: "4e3690fe-34d0-47f4-a059-30be80ba0a76"
+version: "1.0.0.0"
+targetAbi: "10.7.0.0"
+framework: "net5.0"
+overview: "Find Images from DuckDuckGo"
+description: >
+  Scrape album images for your library from duckduckgo. You can adjust the search query
+  by changing album name and also add a permanent prefix or suffix (eg. poster) to your queries
+  in settings.
+category: "Metadata"
+owner: "hikaps"
+artifacts:
+- "Jellyfin.Plugin.DuckDuckGo.dll"
+changelog: >
+  changelog
